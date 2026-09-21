@@ -1,1 +1,1 @@
-Implement task management using useState
+Add useEffect and localStorage persistence
