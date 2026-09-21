@@ -1,1 +1,1 @@
-# student-management-system-
+Initial React project setup
