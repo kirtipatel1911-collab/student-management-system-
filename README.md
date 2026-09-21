@@ -1,1 +1,1 @@
-Add useEffect and localStorage persistence
+Add React Router navigation and pages
